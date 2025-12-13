@@ -45,7 +45,7 @@ export default function Footer() {
                 </div>
 
                 <div className="text-sm text-muted-foreground mt-8 flex items-center gap-2">
-                    © {new Date().getFullYear()} RsnXfolio. Made with <FaHeart className="text-red-500 animate-pulse" /> by Raushan.
+                    © {new Date().getFullYear()} RsnXfolio. Made by Raushan.
                 </div>
             </div>
         </footer>
